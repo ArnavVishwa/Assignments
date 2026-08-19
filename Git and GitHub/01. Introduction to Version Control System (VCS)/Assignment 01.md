@@ -13,4 +13,6 @@
 3. In your own words, define what a **Version Control System (VCS)** is.
 4. Write 3 benefits of using a VCS in a college project or team project.
 
-**Submission:** Written answers (1 page)
+**Answers:**
+
+<img width="3060" height="3029" alt="Assignment 01" src="https://github.com/user-attachments/assets/c9cd3e75-a79f-4c5c-ad36-425e0dd97542" />
