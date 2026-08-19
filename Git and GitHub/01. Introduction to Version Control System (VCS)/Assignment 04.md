@@ -11,4 +11,6 @@
    - Speed of Git
 4. Name any 3 platforms that work with Git (example: GitHub).
 
-**Submission:** Written answers
+**Answers:**
+
+<img width="2622" height="2857" alt="Assignment 04" src="https://github.com/user-attachments/assets/2a4df75f-5318-46bf-8938-38dee939461f" />
