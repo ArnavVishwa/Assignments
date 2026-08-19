@@ -9,4 +9,6 @@
 3. Draw a simple workflow showing how a Distributed VCS (like Git) helps your team.
 4. Write 4 key takeaways you learned from Day 1.
 
-**Submission:** Written answers + diagram
+**Answers:**
+
+<img width="2600" height="3371" alt="Assignment 05" src="https://github.com/user-attachments/assets/31d22369-6934-42e9-81a9-3ef44eeb338f" />
