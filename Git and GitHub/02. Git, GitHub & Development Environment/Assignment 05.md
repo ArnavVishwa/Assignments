@@ -16,4 +16,8 @@
 
 3. Write **4 key takeaways** from Day 2.
 
-**Submission:** Written answers
+**Answers:**
+
+<img width="2784" height="1836" alt="Task 05-01" src="https://github.com/user-attachments/assets/fd72bca9-de0d-488b-bc8b-eda4422bb856" />
+
+<img width="2798" height="3544" alt="Task 05-02" src="https://github.com/user-attachments/assets/62108bd8-c8f9-4a70-bc73-7d5cf65c759b" />
