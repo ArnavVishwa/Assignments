@@ -21,4 +21,9 @@
    - `cd -`
    - `ls -la`
 
-**Submission:** List of commands used + short answers
+**Answers:**
+
+<img width="2794" height="2040" alt="Task 03-01" src="https://github.com/user-attachments/assets/eee77d80-cd32-4b40-b1a8-cf2c33ea878f" />
+
+<img width="2467" height="2801" alt="Task 03-02" src="https://github.com/user-attachments/assets/00181859-8d10-47ed-8cda-099895ff5dec" />
+
